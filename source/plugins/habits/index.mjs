@@ -95,7 +95,7 @@ export default async function({login, data, rest, imports, q, account}, {enabled
     {
       //Compute average number of characters per line of code fetched
       console.debug(`metrics/compute/${login}/plugins > habits > computing average number of characters per line of code`)
-      const lines = patches.flatMap(({patch}) => patch.split("\n").map(line => line.length))
+      const lines = patches.flatMap(({patch}) => patch.split("\n").filter(line => line.replace(/\s/g, "").length > 0).map(line => line.length))
       habits.lines.average.chars = lines.reduce((a, b) => a + b, 0) / lines.length
     }
 
