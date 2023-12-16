@@ -13,6 +13,7 @@ audioscrobbler
 Autoloaded
 automator
 backreference
+bitcoin
 Bizau
 blankslate
 blog
@@ -30,12 +31,14 @@ cmake
 codelines
 codemirror
 codeql
+coingecko
 colorsets
 Consolas
 coord
 csso
 CVE
 cwd
+dajneem
 datapoints
 dded
 dependabot
@@ -71,6 +74,7 @@ eqeqeq
 erged
 esm
 eugeneware
+eur
 eviewed
 expr
 expressjs
@@ -84,7 +88,6 @@ filesize
 filesloop
 Firefox
 firstname
-Fnc
 foliojs
 forkee
 FORTYFIVEDOWN
@@ -103,7 +106,6 @@ ghactions
 ghcr
 ghquery
 gifencoder
-gionkunz
 Gister
 githubs
 githubusercontent
@@ -153,6 +155,7 @@ isocalendar
 itemprop
 itunes
 jellyfin
+jpy
 jshemas
 kacst
 keyup
@@ -227,7 +230,6 @@ orked
 pageerror
 pagespeed
 pagespeedonline
-panosoft
 params
 patchnote
 pdated
@@ -335,6 +337,7 @@ urgentlowalert
 uri
 urlencoded
 URLTo
+usd
 usermod
 usernames
 ushed
